@@ -234,7 +234,7 @@ app.get('/api/cloudflare/rules', async (req, res) => {
 
 // ─── Start ────────────────────────────────────────────────────────────────────
 const PORT = process.env.PORT || 3001;
-httpServer.listen(PORT, () => {
+httpServer.listen(PORT, '0.0.0.0', () => {
   console.log(`[Sentinel WAF] Backend running on :${PORT}`);
   logReader.start();
 });
