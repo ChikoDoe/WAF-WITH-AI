@@ -19,18 +19,6 @@ Monitor nginx logs, deteksi serangan, dan langsung generate rules untuk Cloudfla
 
 ---
 
-## 📸 Screenshot
-
-> **Cara nambahin foto dashboard ke sini:**
-> 1. Deploy dan jalankan Sentinel WAF
-> 2. Buka dashboard di browser
-> 3. Tekan `F12` → Console → ketik: `document.title` (untuk cek halaman yang benar)
-> 4. Screenshot pakai **Chrome**: `Ctrl+Shift+P` → ketik `Capture full size screenshot`  
->    atau pakai **Windows**: `Win+Shift+S` / **Mac**: `Cmd+Shift+4`
-> 5. Simpan file ke folder `docs/assets/` di repo ini
-> 6. Ganti nama file sesuai placeholder di bawah, atau update path-nya
-> 7. `git add docs/assets/ && git commit -m "docs: add dashboard screenshots"`
-
 <div align="center">
 
 ### Live Threat Feed
